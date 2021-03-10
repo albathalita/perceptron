@@ -17,6 +17,8 @@ O resultado dos teste foram satisfatórios, pois foram realizados 4 testes e ape
 |Cavalo|-1|1|
 |Galinha|-1|-1|
 |Avestruz|-1|-1|
+
+
 Fonte: Autoria própria
 
 ###### Legenda da tabela
