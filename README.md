@@ -1,9 +1,12 @@
 # Perceptron
-Atividade de Perceptron da disciplina Tópicos Avançados em Informática I da UFRN.
+Atividade de Perceptron da disciplina Tópicos Avançados em Informática I da Universidade Federal do Rio Grande do Norte - UFRN.
 
 ### Atividade
 
-Atividade realizada para verificar se o ser vivo é um quadrúpede ou um bípede dado os dados dos terminais de entrada, pesos iniciais, limiar e da taxa de aprendizagem.
+Atividade realizada para verificar se o ser vivo é quadrúpede ou bípede dado os valores de entrada, pesos iniciais, limiar e a taxa de aprendizagem.
+
+O perceptron é uma rede neural que aprende conceitos e para esse treinamento foi usado um vetor representando homem para bípede e outro vetor representando cão para quadrúpede.
+
 
 ### Resultados
 
