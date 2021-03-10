@@ -7,3 +7,19 @@ Atividade realizada para verificar se o ser vivo é um quadrúpede ou um bípede
 
 ### Resultados
 
+O resultado dos teste foram satisfatórios, pois foram realizados 4 testes e apenas 1 resultado não convergiu com o resultado esperado.
+
+#### Tabela com resultados
+
+||Resultado Real|Resultado Esperado|
+|-|-|-|
+|Gato|1|1|
+|Cavalo|-1|1|
+|Galinha|-1|-1|
+|Avestruz|-1|-1|
+
+###### Legenda da tabela
+
+Quadrúpede = 1
+
+Bípede = -1
