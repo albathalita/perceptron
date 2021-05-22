@@ -5,7 +5,7 @@ Atividade de Perceptron da disciplina Tópicos Avançados em Informática I da U
 
 Atividade realizada para verificar se o ser vivo é quadrúpede ou bípede dado os valores de entrada, pesos iniciais, limiar e a taxa de aprendizagem.
 
-O perceptron é uma rede neural que aprende conceitos e para esse treinamento foi usado um vetor representando homem para bípede e outro vetor representando cão para quadrúpede.
+O perceptron é uma rede neural artificial que aprende conceitos e reconhece padrões. Para esse treinamento foi usado um vetor representando homem para bípede e outro vetor representando cão para quadrúpede.
 
 
 ### Resultados
